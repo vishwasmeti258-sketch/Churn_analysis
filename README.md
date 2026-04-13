@@ -7,13 +7,13 @@ by this company make decision which reduce churn.
 
 # 📄 Objectives
 
-• Understand churn Reasons
+• Subscription plan choosen by customer
 
-• For which dept. churn is more.
+• plan validity based different su
 
 • Age wise churn 
 
-• Salaries of employees
+• Last customer contact days calls
 
-• Experience of employees
+• Gender by revenue
 
