@@ -9,7 +9,7 @@ by this company make decision which reduce churn.
 
 • Subscription plan choosen by customer
 
-• plan validity based different su
+• plan validity based different subscription
 
 • Age wise churn 
 
