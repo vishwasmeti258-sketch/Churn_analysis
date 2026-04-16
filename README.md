@@ -36,3 +36,17 @@ The dataset contains the following key columns:
 | **Last Interaction** | Days since last activity |
 | **Churn** | Cancellation status (0 or 1) |
 
+
+# 📉 Dashboard Visuals
+
+• line chart for churn by age and gender
+
+• Sum of Revenue by age bar chart
+
+• Average usage frequency , support calls, tenure line chart
+
+• Average payment delay and last interaction by age line chart
+
+• Buttons for filter of gender , plan , tenure , churn.
+
+• Churn count by age using line chart
