@@ -17,3 +17,22 @@ by this company make decision which reduce churn.
 
 • Gender by revenue
 
+
+# 📂 Dataset Description
+The dataset contains the following key columns:
+
+| Column Name | Description |
+| :--- | :--- |
+| **CustomerID** | Unique identifier for each customer |
+| **Age** | Customer's age in years |
+| **Gender** | Customer's gender |
+| **Tenure** | Months with the service |
+| **Usage Frequency** | Frequency of service use |
+| **Support Calls** | Number of support interactions |
+| **Payment Delay** | Days payments were delayed |
+| **Subscription Type** | Service tier (e.g., Basic, Premium) |
+| **Contract Length** | Agreement duration (e.g., Monthly) |
+| **Total Spend** | Cumulative revenue from customer |
+| **Last Interaction** | Days since last activity |
+| **Churn** | Cancellation status (0 or 1) |
+
