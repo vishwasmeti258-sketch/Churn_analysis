@@ -50,3 +50,18 @@ The dataset contains the following key columns:
 • Buttons for filter of gender , plan , tenure , churn.
 
 • Churn count by age using line chart
+
+# 🛠 Tools & Technologies
+Power BI – Dashboard creation and visualization
+Python (Pandas, Matplotlib, Seaborn) – Data preprocessing & analysis
+
+# 🔍 Key Insights
+
+• most churn seen in adult age count more compared to other.
+
+• female churn is more compared to male
+users
+
+• Age above 50 consumers are revenue
+generator.
+
